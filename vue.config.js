@@ -1,7 +1,7 @@
 module.exports = {
     pwa: {
         name: 'Mnemo',
-        themeColor: '#ede8e6',
+        themeColor: '#d9d9d9',
         msTileColor: '#ffffff',
         appleMobileWebAppCapable: 'yes',
         appleMobileWebAppStatusBarStyle: 'white',

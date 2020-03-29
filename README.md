@@ -1,6 +1,6 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="https://d2zuxmugggl957.cloudfront.net"><img src="https://d2zuxmugggl957.cloudfront.net/img/icons/android-chrome-192x192.png" title="Mnemo todo progressive web app" alt="Logo"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+[![Mnemo todo progressive web app](https://d2zuxmugggl957.cloudfront.net)](https://d2zuxmugggl957.cloudfront.net)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
