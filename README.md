@@ -1,7 +1,7 @@
 # Mnemo
 <p align="center">
   <a href="https://vuetifyjs.com" target="_blank">
-    <img alt="Vuetify Logo" width="100" src="https://d2zuxmugggl957.cloudfront.net/img/mockup.png">
+    <img alt="Vuetify Logo" max-width="600" src="https://d2zuxmugggl957.cloudfront.net/img/mockup.png">
   </a>
 </p>
 A todo progressive web app made with Vue and Vuetify UI library.
