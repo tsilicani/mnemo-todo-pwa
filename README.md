@@ -1,7 +1,7 @@
 <h1>Mnemo</h1>
 <p>
-  <a href="https://vuetifyjs.com" target="_blank">
-    <img alt="Vuetify Logo" width="300" src="https://d2zuxmugggl957.cloudfront.net/img/mockup.png">
+  <a href="https://d2zuxmugggl957.cloudfront.net" target="_blank">
+    <img alt="screenshot" width="300" src="https://d2zuxmugggl957.cloudfront.net/img/mockup.png">
   </a>
 </p>
 
