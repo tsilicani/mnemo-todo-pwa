@@ -87,6 +87,7 @@ const beep = new Audio(require('./assets/audio/beep.mp3'))
 
 export default {
     name: 'app',
+    title: 'Mnemo - Todo Progressive Web App',
     components: { AppTitle },
     data() {
         return {

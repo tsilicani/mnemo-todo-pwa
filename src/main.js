@@ -8,6 +8,13 @@ import './registerServiceWorker'
 Vue.config.productionTip = false
 Vue.prototype.$eventHub = new Vue() // Global event bus
 
+import VuePageTitle from 'vue-page-title'
+
+Vue.use(VuePageTitle, {
+    // prefix: 'My App - ',
+    // suffix: '- My App '
+})
+
 new Vue({
     store,
     vuetify,
