@@ -10,16 +10,16 @@ export default {
 </script>
 <style>
 .mnemo-logo {
-    font-size: 1.25rem !important;
+    font-size: 1.4rem !important;
     font-weight: 500;
     line-height: 2rem;
     /* letter-spacing: 0.0125em !important;*/
-    letter-spacing: 0.3em !important;
+    letter-spacing: 0.12em !important;
     font-family: "Roboto", sans-serif !important;
 }
 
 .mnemo-logo-icon {
     font-size: 1rem !important;
-    padding-bottom: 1px;
+    padding-bottom: 1.2px;
 }
 </style>
