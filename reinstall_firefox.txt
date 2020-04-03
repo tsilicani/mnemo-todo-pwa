@@ -1,0 +1,1 @@
+sudo apt-get --purge autoremove firefox && rm -rf ~/.mozilla && sudo apt-get install firefox && firefox
