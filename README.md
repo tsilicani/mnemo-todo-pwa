@@ -1,10 +1,11 @@
-# Mnemo
-<p align="center">
+<h2 align="center">Mnemo</h2>
+<p>
   <a href="https://vuetifyjs.com" target="_blank">
     <img alt="Vuetify Logo" width="300" src="https://d2zuxmugggl957.cloudfront.net/img/mockup.png">
   </a>
 </p>
-A todo progressive web app made with Vue and Vuetify UI library.
+
+<p align="center">A todo progressive web app made with Vue and Vuetify UI library.</p>
 
 [**Demo**](https://d2zuxmugggl957.cloudfront.net)<br>
 
